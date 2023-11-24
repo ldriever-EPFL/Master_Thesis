@@ -1,0 +1,5 @@
+Number of iterations: 5
+Converged: True
+Number of conducted function evaluations: 2800
+Final training error: 2.0091372129722776e-05
+Final testing error: 8.632018580003035e-05

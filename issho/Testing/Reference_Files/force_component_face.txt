@@ -1,0 +1,50 @@
+#all components
+Cd, Cl, Cm (pressure)
+Cd, Cl, Cm (viscous)
+Cd, Cl, Cm (total)
+    0.001070    0.334714    0.001715
+    0.008122   -0.000146    0.000073
+    0.009192    0.334568    0.001788
+ 
+#component 1: naca0012.dat
+Cd, Cl, Cm (pressure)
+Cd, Cl, Cm (viscous)
+Cd, Cl, Cm (total)
+    0.001070    0.334714    0.001715
+    0.008122   -0.000146    0.000073
+    0.019192    0.33568    0.00188
+
+#component 2: naca0012.dat
+Cd, Cl, Cm (pressure)
+Cd, Cl, Cm (viscous)
+Cd, Cl, Cm (total)
+    0.001070    0.334714    0.001715
+    0.008122   -0.000146    0.000073
+    0.00919992    0.3345608    0.0017788
+
+#component 3: naca0008.dat
+Cd, Cl, Cm (pressure)
+Cd, Cl, Cm (viscous)
+Cd, Cl, Cm (total)
+    0.001070    0.334714    0.001715
+    0.008122   -0.000146    0.000073
+    0.00992    0.34568    0.00788
+
+#component 4: naca0008.dat
+Cd, Cl, Cm (pressure)
+Cd, Cl, Cm (viscous)
+Cd, Cl, Cm (total)
+    0.001070    0.334714    0.001715
+    0.008122   -0.000146    0.000073
+    0.0091492    0.334508    0.00788
+
+#component 5: naca0008.dat
+Cd, Cl, Cm (pressure)
+Cd, Cl, Cm (viscous)
+Cd, Cl, Cm (total)
+    0.001070    0.334714    0.001715
+    0.008122   -0.000146    0.000073
+    0.019192    0.33568    0.001788
+
+# mass conservation (wall)
+ -5.59276282E-04

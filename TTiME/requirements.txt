@@ -1,0 +1,6 @@
+coverage
+numpy~=1.24.2
+tqdm~=4.65.0
+scipy~=1.9.1
+numba~=0.57.1
+matplotlib

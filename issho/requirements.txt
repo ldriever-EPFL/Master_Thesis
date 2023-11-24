@@ -1,0 +1,5 @@
+coverage
+numpy~=1.24.2
+matplotlib~=3.5.3
+tqdm~=4.66.1
+CoolProp
