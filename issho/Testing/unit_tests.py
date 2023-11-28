@@ -443,7 +443,6 @@ class TestFoilChain(unittest.TestCase):
         self.assertTrue(np.max(theta_2_diff) < 0.05)
 
     def test_simulation_double_pendulum_external_sim(self):
-        # TODO include in report with graphs. Comment about chaotic nature of system can lead to divergence if running for longer (from num error accumulation) but for the purpose at hand that is not an issue
         self.foil_chain = FoilChain(join(base_path, 'Reference_Files', 'double_pendulum_ext_sim.txt'), base_path=base_path)
 
         # based on the double pendulum simulation provided by MathWorks: https://uk.mathworks.com/help/symbolic/animation-and-solution-of-double-pendulum.html
